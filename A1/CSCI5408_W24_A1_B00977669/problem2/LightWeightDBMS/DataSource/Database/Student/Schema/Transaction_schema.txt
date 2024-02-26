@@ -1,0 +1,1 @@
+Transaction_Id=INT;Sender_Account=INT;Receiver_Account=INT;Amount=INT

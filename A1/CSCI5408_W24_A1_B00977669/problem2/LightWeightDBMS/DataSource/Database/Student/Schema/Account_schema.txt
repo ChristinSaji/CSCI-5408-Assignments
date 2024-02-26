@@ -1,0 +1,1 @@
+Account_Number=INT;Name=VARCHAR(20);Balance=INT
